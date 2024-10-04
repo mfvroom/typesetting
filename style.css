@@ -44,3 +44,11 @@ header, footer {
 
 /* WRITE YOUR CODE BELOW HERE */
 
+nav li {
+	background-color: white;
+	margin-bottom: 0.25rem;
+	border: 1px solid blue;
+	padding: 0.5rem, 1rem;
+	list-style-type: none;
+	text-align: center; 
+}
