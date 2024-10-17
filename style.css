@@ -111,15 +111,11 @@ p {
     word-spacing: 0.2rem;
   }
 
-  nav{
-    background-color: rgb(77, 77, 165);
-    color: white;
-  }
-
   nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    width: 60px;
   }
 
   nav ul li {
@@ -130,5 +126,5 @@ p {
     color: white;
     text-decoration: none;
     font-size: 3rem;
-    padding: 8px 16px;
+    display: block;
   }
