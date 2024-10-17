@@ -73,7 +73,8 @@
   }
 
   a {
-    color: blue;
+    color: #a66;
+    text-decoration: underlineq;
   }
 
   a:visited {
@@ -82,8 +83,10 @@
 
   a:hover {
     color: #a66;
+    text-decoration: none;
   }
 
   a:focus {
     color: cyan;
+    text-decoration: none;
   }
