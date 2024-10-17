@@ -52,7 +52,7 @@
   h1 {
     text-align: center;
     margin: 0;
-    padding: auto;
+    /*padding: auto; */
     font-size: 3em;
     letter-spacing: 0.1em;
   }
@@ -70,4 +70,20 @@
     line-height: 1.5rem;
     letter-spacing: 0.1rem;
     word-spacing: 0.2rem;
+  }
+
+  a {
+    color: blue;
+  }
+
+  a:visited {
+    color: purple;
+  }
+
+  a:hover {
+    color: #a66;
+  }
+
+  a:focus {
+    color: cyan;
   }
