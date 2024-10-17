@@ -67,7 +67,7 @@ p {
   }  
 
   body { 
-    line-height: 1.5rem;
+    line-height: 2.5rem;
     letter-spacing: 0.1rem;
     word-spacing: 0.2rem;
   }
@@ -95,16 +95,16 @@ p {
 
   a[href^="http"]::after{
     content: url(external-link-52.png);
-    width: 12px;
-    height: 12px;
+    width: 10px;
+    height: 10px;
     display: inline-block;
     margin-left: 3px;
-    vertical-align: middle;
+    /*vertical-align: middle; */
   }
 
   li {
     font-size: 1.5rem;
-    line-height: 1.5rem;
+    line-height: 2.5rem;
     letter-spacing: 0.1rem;
     word-spacing: 0.2rem;
   }
