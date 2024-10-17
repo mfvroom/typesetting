@@ -54,6 +54,7 @@
     margin: 0;
     padding: auto;
     font-size: 3em;
+    letter-spacing: 0.1em;
   }
 
   h2{
@@ -62,4 +63,10 @@
 
   p {
     font-size: 1.5em;
+  }
+
+  body { 
+    line-height: 1.5rem;
+    letter-spacing: 0.1rem;
+    word-spacing: 0.2rem;
   }
