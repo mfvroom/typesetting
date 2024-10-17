@@ -110,3 +110,8 @@ p {
     letter-spacing: 0.1rem;
     word-spacing: 0.2rem;
   }
+
+  nav{
+    background-color: rgb(77, 77, 165);
+    color: white;
+  }
