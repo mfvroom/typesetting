@@ -53,4 +53,13 @@
     text-align: center;
     margin: 0;
     padding: auto;
+    font-size: 3em;
+  }
+
+  h2{
+    font-size: 2em;
+  }
+
+  p {
+    font-size: 1.5em;
   }
