@@ -78,15 +78,17 @@
   }
 
   a:visited {
-    color: purple;
+    color: rgb(95, 42, 95);
   }
 
   a:hover {
-    color: #a66;
+    color: rgb(77, 77, 165);
     text-decoration: none;
   }
 
   a:focus {
-    color: cyan;
+    color: white;
     text-decoration: none;
+    outline: none;
+    background-color: rgb(27, 27, 27);
   }
