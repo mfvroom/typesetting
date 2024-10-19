@@ -44,9 +44,12 @@
   
   /* WRITE YOUR CODE BELOW HERE */
 
-  html {
-    font-family: Arial, sans-serif;
+  body {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
     font-size: 10px;
+    font-style: normal;
   }
 
   h1 {
