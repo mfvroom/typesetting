@@ -120,7 +120,7 @@ p {
   }
 
   nav ul li {
-    background-color: #a66;
+    border: solid 1px #a66;
     margin: 0.5rem;
     padding: 0.5rem;
   }
