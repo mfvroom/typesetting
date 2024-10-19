@@ -115,12 +115,13 @@ p {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    width: 80px;
+   /*width: px;*/
     justify-content: center;
   }
 
   nav ul li {
     background-color: #a66;
+    margin: 0.5rem;
     padding: 0.5rem;
   }
 
