@@ -54,7 +54,7 @@
     text-align: center;
     margin: 0;
     /*padding: auto; */
-    font-size: 2rem;
+    font-size: 3rem;
     letter-spacing: 0.1em;
   }
 
@@ -63,7 +63,7 @@
   }
 
 p {
-    font-size: 0.725 remrem;
+    font-size: 0.9rem;
     text-indent: 1.25rem;
   }  
 
@@ -106,7 +106,7 @@ p {
   }
 
   li {
-    font-size: 0.725rem;
+    font-size: 0.9rem;
     line-height: 2.5rem;
     letter-spacing: 0.1rem;
     word-spacing: 0.2rem;
@@ -129,6 +129,6 @@ p {
   nav ul li a {
     color: white;
     text-decoration: none;
-    font-size: 1rem;
+    font-size: 2rem;
     display: block;
   }
