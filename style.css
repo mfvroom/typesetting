@@ -51,11 +51,10 @@
   }
 
   h1 {
-    font-weight: bold;
     text-align: center;
     margin: 0;
     /*padding: auto; */
-    font-size: 3rem;
+    font-size: 2rem;
     letter-spacing: 0.1em;
   }
 
