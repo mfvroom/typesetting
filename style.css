@@ -65,7 +65,7 @@
   }
 
 p {
-    font-size: 1rem;
+    font-size: 0.725 remrem;
     text-indent: 1.25rem;
   }  
 
@@ -108,7 +108,7 @@ p {
   }
 
   li {
-    font-size: 1rem;
+    font-size: 0.725rem;
     line-height: 2.5rem;
     letter-spacing: 0.1rem;
     word-spacing: 0.2rem;
@@ -131,6 +131,6 @@ p {
   nav ul li a {
     color: white;
     text-decoration: none;
-    font-size: 1.5rem;
+    font-size: 1rem;
     display: block;
   }
