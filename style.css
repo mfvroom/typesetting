@@ -45,12 +45,13 @@
   /* WRITE YOUR CODE BELOW HERE */
 
   html {
-    font-family: "Inter", sans-serif;
+    font-family: "Newsreader", serif;;
     font-size: 10px;
     font-style: normal;
   }
 
   h1 {
+    font-weight: bold;
     text-align: center;
     margin: 0;
     /*padding: auto; */
