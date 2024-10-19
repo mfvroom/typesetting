@@ -94,11 +94,10 @@ p {
   }
 
   a[href^="http"]::after{
-    content: "";
+    content: url('external-link-symbol.svg');
     display: inline-block;
     width: 12px;
     height: 12px;
-    background-image: url('external-link-symbol.svg');
     background-size: contain;
     margin-left: 3px;
     /*vertical-align: middle; */
