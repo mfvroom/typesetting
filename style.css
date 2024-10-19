@@ -56,16 +56,16 @@
     text-align: center;
     margin: 0;
     /*padding: auto; */
-    font-size: 3em;
+    font-size: 3rem;
     letter-spacing: 0.1em;
   }
 
   h2{
-    font-size: 2em;
+    font-size: 2rem;
   }
 
 p {
-    font-size: 1.5em;
+    font-size: 1rem;
     text-indent: 1.25rem;
   }  
 
@@ -108,7 +108,7 @@ p {
   }
 
   li {
-    font-size: 1.5rem;
+    font-size: 1rem;
     line-height: 2.5rem;
     letter-spacing: 0.1rem;
     word-spacing: 0.2rem;
@@ -131,6 +131,6 @@ p {
   nav ul li a {
     color: white;
     text-decoration: none;
-    font-size: 2.5rem;
+    font-size: 1.5rem;
     display: block;
   }
